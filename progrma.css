@@ -1,0 +1,13 @@
+div{
+    width: 220px;
+    height: 180px;
+    border: 100px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px 5px #555;
+    padding:10%;
+    margin: 9%;
+    background-color: rgb(66, 233, 177);
+    text-align: justify;
+    text-shadow: 2px 3px 9px  blue;
+    font-size: 115%;
+}
